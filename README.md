@@ -1,5 +1,3 @@
-# passportlocal
-# passportlocal2
-# passportlocal2
-# passportlocal2
-# passportlocal2
+#Passport Local Auth
+
+Registration and Login using passport, express
